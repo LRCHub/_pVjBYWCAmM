@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "甘いワナ ～Paint It, Black",
+  "base_artist": "Hikaru Utada",
+  "createdAt": "2026-02-18T15:21:30.764900Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "甘いワナ ~Paint It, Black",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/01_甘いワナ_~Paint_It,_Black_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "甘いワナ~Paint It, Black",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/02_甘いワナ~Paint_It,_Black_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "甘いワナ ～Paint It, Black～",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/03_甘いワナ_~Paint_It,_Black~_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "甘いワナ ~ Paint It, Black",
+      "artist": "宇多田光",
+      "has_synced": true,
+      "path": "select/04_甘いワナ_~_Paint_It,_Black_宇多田光.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Amai Wana - Paint It, Black (甘いワナ 〜Paint It, Black)",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/05_Amai_Wana_-_Paint_It,_Black_(甘いワナ_〜Paint_It,_Black)_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "甘いワナ 〜 Paint It, Black",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/06_甘いワナ_〜_Paint_It,_Black_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "甘いワナ ～Paint It, Black",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/07_甘いワナ_~Paint_It,_Black_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "甘いワナ ～Paint It,Black",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/08_甘いワナ_~Paint_It,Black_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "甘いワナ -Paint It, Black",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/09_甘いワナ_-Paint_It,_Black_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "甘いワナ 〜 Paint It, Black",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/10_甘いワナ_〜_Paint_It,_Black_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "甘いワナ ~Paint It, Black [TV Mix]",
+      "artist": "Hikaru Utada",
+      "has_synced": false,
+      "path": "select/11_甘いワナ_~Paint_It,_Black_[TV_Mix]_Hikaru_Utada.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "甘いワナ 〜 Paint It, Black",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/12_甘いワナ_〜_Paint_It,_Black_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "甘いワナ ~Paint It, Black",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/13_甘いワナ_~Paint_It,_Black_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "甘いワナ ～Paint It, Black",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/14_甘いワナ_~Paint_It,_Black_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "甘いワナ ～Paint It, Black [TV Mix]",
+      "artist": "宇多田ヒカル",
+      "has_synced": false,
+      "path": "select/15_甘いワナ_~Paint_It,_Black_[TV_Mix]_宇多田ヒカル.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "甘いワナ ～Paint It, Black (Remastered 2014)",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/16_甘いワナ_~Paint_It,_Black_(Remastered_2014)_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "甘いワナ 〜Paint It, Black",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/17_甘いワナ_〜Paint_It,_Black_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "甘いワナ ～Paint It, Black～",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/18_甘いワナ_~Paint_It,_Black~_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "甘いワナ ～ Paint It, Black",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/19_甘いワナ_~_Paint_It,_Black_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "甘いワナ ～Paint It Black [2014 Remastered Album]",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/20_甘いワナ_~Paint_It_Black_[2014_Remastered_Album]_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "甘いワナ ～Paint It, Black",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_01_甘いワナ_~Paint_It,_Black_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "甘いワナ ～Paint It, Black～",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_02_甘いワナ_~Paint_It,_Black~_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "甘いワナ ～Paint It, Black",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_03_甘いワナ_~Paint_It,_Black_宇多田_ヒカル.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "甘いワナ ～Paint It, Black ～",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_04_甘いワナ_~Paint_It,_Black_~_宇多田_ヒカル.txt"
+    }
+  ]
+}
